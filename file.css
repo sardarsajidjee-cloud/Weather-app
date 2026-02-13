@@ -1,0 +1,18 @@
+body{
+  font-family: Arial;
+  text-align: center;
+  margin-top: 40px;
+  background-color: #e0f7fa; /* light blue */
+}
+
+input, button{
+padding: 10px;
+margin: 5px;
+background-color: #e8f9fa; /* light blue */
+}
+
+#result{
+margin-top: 20px;
+font-size: 18px;
+color: #333;
+}
